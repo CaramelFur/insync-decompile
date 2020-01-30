@@ -1,0 +1,5 @@
+ __pycache__
+*.deb
+*.tar.xz
+*.tar.gz
+
